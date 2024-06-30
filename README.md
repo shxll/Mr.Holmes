@@ -1,4 +1,6 @@
-# FERRAMENTA OSINT-full scan
+# :mag: Mr.Holmes
+Mr.Holmes é uma ferramenta de coleta de informações (OSINT). O objetivo principal é obter informações sobre domínios, nomes de usuário e números de telefone com o auxílio de fontes públicas disponíveis na internet e também utilizar o ataque google dorks para pesquisadores específicos. Ele também usa proxies para tornar suas solicitações totalmente anônimas e uma API WhoIS para obter mais informações sobre um domínio.
+<br>
 
 # Instalação 
 
