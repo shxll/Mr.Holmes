@@ -83,11 +83,11 @@ class Main:
         f.close()
         print(Font.Color.GREEN + text)
         print(Font.Color.WHITE + "A COMPLETE OSINT TOOL:)      " +
-              Font.Color.BANNER + "CODED BY LUCKSI" + Font.Color.RESET)
+              Font.Color.BANNER + "CODED BY SHXLL" + Font.Color.RESET)
         print(Font.Color.WHITE + "\n[+]" +
               Font.Color.GREEN + "VERSION:" + version)
         print(
-            Font.Color.YELLOW + "Instagram:lucks_022\nEMAIL:lukege287@gmail.com\nGIT-HUB:Lucksi\nTwitter:@Lucksi_22\nLinkedin:https://www.linkedin.com/in/Lucksi\n")
+            Font.Color.YELLOW + "Instagram:sharllanp\nEMAIL:sharllans2@gmail.com\nGIT-HUB:shxll\nTwitter:@sharllanp\nLinkedin:https://www.linkedin.com/in/Sharllan-Paulino\n")
 
     @staticmethod
     def main(Mode):
