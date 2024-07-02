@@ -1,4 +1,3 @@
-
 import os
 import random
 from Core.Support import Font
@@ -61,11 +60,11 @@ class Main:
         print(Font.Color.WHITE + u)
         print(Font.Color.GREEN + text
               +
-              Font.Color.WHITE + "| A COMPLETE OSINT TOOL:)      " + Font.Color.BANNER + "CODED BY SHXLL" + Font.Color.RESET + Font.Color.WHITE + "                      |\n|                                                                   |")
+              Font.Color.WHITE + "| A COMPLETE OSINT TOOL:)      " + Font.Color.BANNER + "CODED BY LUCKSI" + Font.Color.RESET + Font.Color.WHITE + "                      |\n|                                                                   |")
         print(Font.Color.WHITE + "|[+]" + Font.Color.GREEN + "VERSION:" + version +      Font.Color.WHITE +  "\t\t\tCURRENT-DATE: {}".format(Font.Color.GREEN + Date1) + 
               Font.Color.WHITE + "    |")
         print(
-            Font.Color.YELLOW + "|Instagram:sharllanp " + Font.Color.WHITE + "\t\t\tDATE-FORMAT: {}".format(Font.Color.GREEN + Country + Font.Color.YELLOW) + "          \n|Email:sharllans2@gmail.com" + Font.Color.WHITE + "\t\tCLI-LANGUAGE: {}".format(Font.Color.GREEN + Lang + Font.Color.YELLOW) + "       |\n|GitHub:shxll                                                      |\n|Twitter:@sharllanp                                                 |\n|Linkedin:https://www.linkedin.com/in/sharllan-paulino                        |")
+            Font.Color.YELLOW + "|Instagram:lucks_022 " + Font.Color.WHITE + "\t\t\tDATE-FORMAT: {}".format(Font.Color.GREEN + Country + Font.Color.YELLOW) + "          \n|Email:lukege287@gmail.com" + Font.Color.WHITE + "\t\tCLI-LANGUAGE: {}".format(Font.Color.GREEN + Lang + Font.Color.YELLOW) + "       |\n|GitHub:Lucksi                                                      |\n|Twitter:@Lucksi_22                                                 |\n|Linkedin:https://www.linkedin.com/in/Lucksi                        |")
         print(Font.Color.WHITE +
               "---------------------------------------------------------------------")
 
@@ -84,11 +83,11 @@ class Main:
         f.close()
         print(Font.Color.GREEN + text)
         print(Font.Color.WHITE + "A COMPLETE OSINT TOOL:)      " +
-              Font.Color.BANNER + "CODED BY SHXLL" + Font.Color.RESET)
+              Font.Color.BANNER + "CODED BY LUCKSI" + Font.Color.RESET)
         print(Font.Color.WHITE + "\n[+]" +
               Font.Color.GREEN + "VERSION:" + version)
         print(
-            Font.Color.YELLOW + "Instagram:@sharllanp\nEMAIL:sharllans2@gmail.com\nGIT-HUB:shxll\nLinkedin:https://www.linkedin.com/in/sharllan-paulino\n")
+            Font.Color.YELLOW + "Instagram:lucks_022\nEMAIL:lukege287@gmail.com\nGIT-HUB:Lucksi\nTwitter:@Lucksi_22\nLinkedin:https://www.linkedin.com/in/Lucksi\n")
 
     @staticmethod
     def main(Mode):
