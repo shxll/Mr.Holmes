@@ -5,7 +5,7 @@ Mr.Holmes é uma ferramenta de coleta de informações (OSINT). O objetivo princ
 # Instalação 
 
 ```bash
-sudo apt install python3-venv
+sudo apt install python3-venv git
 ```
 
 # Crie uma Venv no Python e ative:
